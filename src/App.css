@@ -1,0 +1,17 @@
+h1 , h3{
+  padding: 30px ;
+  text-align: center;
+}
+
+.feriel{ 
+  background-color: rgb(166, 166, 206);
+  position: relative;
+  left: 400px;
+  margin: 20px;
+  padding: 30px 10px;
+  width: 520px;
+  text-align: center;
+}
+.fe{
+  width: 500px !important;
+}
